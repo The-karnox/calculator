@@ -14,7 +14,7 @@ public class calculator implements ActionListener{
     JButton addButton, subButton, mulButton, divButton;
     JButton decButton, equButton, delButton, clrButton , negButton;
     JPanel panel;
-    Font myFont = new Font("Ink Free", Font.BOLD, 30);
+    Font myFont = new Font("Areal Black", Font.BOLD, 30);
     double num1 = 0, num2 = 0, result = 0;
     char operator;
 
